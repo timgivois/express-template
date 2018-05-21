@@ -49,3 +49,5 @@ shared/
 
 # Webstorm
 .idea
+
+yarn-error.log

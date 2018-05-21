@@ -1,5 +1,5 @@
 {
-  "name": "express template",
+  "name": "express-template",
   "version": "0.0.1",
   "scripts": {
     "precommit": "npm run lint",
